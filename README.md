@@ -1,1 +1,3 @@
-# dwm config
+# dwm 
+
+
