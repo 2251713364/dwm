@@ -75,3 +75,8 @@ and (re)compiling the source code.
 临时打开一个小窗口
 ### vanitygaps
 给窗口之间增加一些小空隙
+
+
+# TODOlist
+1.蓝牙系统托盘
+2.代理不起作用
