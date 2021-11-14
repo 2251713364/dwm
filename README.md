@@ -51,7 +51,7 @@ and (re)compiling the source code.
 
 
 
-## patches
+# patches
 
 ### autostart
 开启dwm时自动运行一些脚本
