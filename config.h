@@ -90,7 +90,7 @@ static const char *termcmd[]  = { "st", NULL };
 static const char scratchpadname[] = "scratchpad";
 static const char *scratchpadcmd[] = { "st", "-t", scratchpadname, "-g", "120x34", NULL };
  
-static const char *browsercmd[]  = { "google-chrome-stable", NULL };
+static const char *browsercmd[]  = { "google-chrome-stable, NULL };
 
 static const char *upvol[]   = { "/home/m/scripts/vol-up.sh",  NULL };
 
